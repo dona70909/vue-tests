@@ -1,6 +1,6 @@
 <template>
     <p>
-        sono un p
+        sono un p dentro un header
     </p>
 </template>
 
