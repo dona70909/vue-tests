@@ -7,6 +7,7 @@
                 <button v-for="audio in audios" :key="audio.id" @click.prevent="audio.isPlaying ? pause(audio) : play(audio)"  class="btn btn-primary" @dblclick="stopSound">
                     play!
                 </button>
+                <h3>prova</h3>
             </div>
         </div>
     </header>
