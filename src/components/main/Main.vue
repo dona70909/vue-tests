@@ -1,12 +1,12 @@
 <template>
-    <p>
-        sono un p
-    </p>
+    <main>
+        Sono il main
+    </main>
 </template>
 
 <script>
 export default {
-    name:"ParagraphTest",
+    name:"MainTest",
 }
 </script>
 
